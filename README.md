@@ -1,4 +1,4 @@
-# position tracking on matlab
+# Position Tracking on Matlab
 
 # TODO: 
 - Kalman filter testing
